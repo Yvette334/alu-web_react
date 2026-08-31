@@ -23,7 +23,6 @@
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
-    "jquery": "^3.6.0",
-    "task_0": "file:"
+    "jquery": "^3.6.0"
   }
 }

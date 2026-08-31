@@ -1,7 +1,6 @@
-const $ = require( "jquery" );
-// Load the full build
+const $ = require("jquery");
 const _ = require("lodash");
-import "../css/main.css";
+require("../css/main.css");
 
 let count = 0;
 
